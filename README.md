@@ -1,4 +1,4 @@
 # gitskills
 creating a new branch is quick and simple.
-hello dev
+hello master
 world
